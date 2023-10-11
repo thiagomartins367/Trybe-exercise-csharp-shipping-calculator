@@ -47,9 +47,9 @@ Neste exercício, verificamos se você é capaz de:
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/csharp-0x-exercicio-calculadora-de-frete.git`.
+  - Use o comando: `git clone git@github.com:tryber/csharp-001-exercicio-calculadora-de-frete.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd csharp-0x-exercicio-calculadora-de-frete`
+    - `cd csharp-001-exercicio-calculadora-de-frete`
 
   2. Instale as dependências
 
@@ -63,7 +63,7 @@ Neste exercício, verificamos se você é capaz de:
     - Exemplo: `git checkout master`
   - Agora, crie uma branch à qual você vai submeter os `commits` do seu projeto
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-csharp-0x-exercicio-calculadora-de-frete`
+    - Exemplo: `git checkout -b joaozinho-csharp-001-exercicio-calculadora-de-frete`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -80,7 +80,7 @@ Neste exercício, verificamos se você é capaz de:
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-0x-exercicio-calculadora-de-frete`
+  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-001-exercicio-calculadora-de-frete`
 
   6. Crie um novo `Pull Request` _(PR)_
 
@@ -261,7 +261,7 @@ Será testado que realizando diversas requisições à função implementada, a 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
 **Leva menos de 3 minutos!**
 
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH1&template=betrybe/csharp-0x-exercicio-calculadora-de-frete)
 
 </details>
   
