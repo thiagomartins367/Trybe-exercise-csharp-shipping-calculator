@@ -43,7 +43,15 @@ public class ShippingCalculator
     // 3 - Calcular o Frete final na função `CalculateShipping`
     public double calculateShipping(double orderPrice, double weight)
     {
-        throw new NotImplementedException();
+        double shippingPrice = this.calculateShippingPrice(orderPrice);
+        double shippingWeight = this.calculateShippingWeight(weight);
+        double finalShippingPrice = shippingPrice + shippingWeight;
+        if (finalShippingPrice > 45)
+        {
+            double discount = finalShippingPrice * 0.15;
+            return finalShippingPrice - discount;
+        }
+        return finalShippingPrice;
     }
 
     // 4 - Calcular o Frete final para um array de preços e um array de pesos na função `CalculateShippingFromArray`
