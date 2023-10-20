@@ -48,8 +48,7 @@ public class ShippingCalculator
         double finalShippingPrice = shippingPrice + shippingWeight;
         if (finalShippingPrice > 45)
         {
-            double discount = finalShippingPrice * 0.15;
-            return finalShippingPrice - discount;
+            return finalShippingPrice * 0.85;
         }
         return finalShippingPrice;
     }
