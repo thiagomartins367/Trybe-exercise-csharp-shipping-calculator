@@ -253,15 +253,3 @@ Será testado que realizando diversas requisições à função implementada, a 
 Será testado que realizando diversas requisições à função implementada, a mesma retornará o valor correto do frete para todos os casos.
 
 </details>
-
-
-<details>
-<summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary>
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
-**Leva menos de 3 minutos!**
-
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH1&template=betrybe/csharp-0x-exercicio-calculadora-de-frete)
-
-</details>
-  
